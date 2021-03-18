@@ -1,0 +1,47 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: darkgrey;
+}
+
+.container{
+	width: 1000px;
+	margin: 0 auto;
+	background-color: aqua;
+}
+
+.NaamCafe{
+	color: blue;
+	width: 175px;
+	padding-left: 5px;
+	margin: 0 auto;
+	font-size: 40px;
+	background-color: black;
+}
+
+.Drankjes{
+	padding-left: 5px;
+	margin-bottom: 5px;
+}
+
+.DrankjesKopje{
+	background-color: black;
+	color: blue;
+	width: 100px;
+	padding-left: 5px;
+}
+
+.SnackKopje{
+	background-color: black;
+	color: blue;
+	width: 80px;
+	padding-left: 5px;
+}
+
+li{
+	list-style-type: none;
+	font-size: 20px;
+}
